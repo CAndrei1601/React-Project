@@ -1,0 +1,29 @@
+.container{
+    max-width: 100%;
+    height:500px;
+    background-color: #f2f2f2;
+}
+
+h3{
+    padding-top: 30px  ;
+    padding-bottom:30px ;
+}
+
+.crown{
+height: 100px;
+width: 100px;
+
+
+}
+
+.logos{
+    width: 300px;
+    
+
+}
+
+h1{
+
+
+    color: white;
+}

@@ -1,0 +1,16 @@
+.img1{
+        max-width: 100%;
+        height: auto;
+
+
+
+}
+
+.buton1{
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+
+}
+
